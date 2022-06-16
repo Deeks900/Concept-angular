@@ -1,0 +1,15 @@
+.containerLeft{
+    background-image: url('./../../../assets/bg2.jpg');
+    width: 50%;
+    position: absolute;
+   left: 0px;
+   height: 100%;
+}
+
+.left-button{
+    margin-top: 80px;
+    position: relative;
+    left: 40%;
+    top: 30%;
+    
+}

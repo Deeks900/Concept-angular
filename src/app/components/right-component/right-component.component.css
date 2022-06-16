@@ -1,0 +1,14 @@
+
+.containerRight{
+    background-color: bisque;
+    width: 50%;
+    position: absolute;
+    right: 0px;
+    height: 100%;
+}
+
+.containerElements{
+    position:relative;
+    left: 40%;
+    top: 40%;
+}
